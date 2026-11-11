@@ -1,0 +1,27 @@
+# Cherif Rayan DJEBARA
+
+> Étudiant en Master 1 Génie Logiciel à l'USTHB (Alger, Algérie), intéressé par le développement web et la conception d'applications. À la recherche d'un stage en développement web.
+
+## Parcours
+
+- Master 1, spécialité Génie Logiciel, USTHB (en cours)
+- Licence en informatique, USTHB : mémoire sur la conception d'une plateforme web de gestion universitaire pour la faculté d'informatique
+
+## Compétences clés
+
+- **Développement web** : HTML5, CSS3, JavaScript, React.js
+- **Back-end et bases de données** : Python (FastAPI), PostgreSQL, authentification JWT
+- **Génie logiciel** : conception UML, Git et GitHub, travail en équipe
+
+## Projets
+
+- **Plateforme de gestion universitaire** : application web réalisée en équipe de trois pour la faculté d'informatique de l'USTHB. Elle gère les modules, les enseignants et les inscriptions, avec des espaces propres à chaque rôle d'utilisateur. Technologies : React.js, FastAPI, PostgreSQL.
+
+## Liens
+
+- [Portfolio](https://djebara-cherif.github.io/portfolio/): présentation complète du parcours, des compétences et des projets
+- [GitHub](https://github.com/Djebara-Cherif): code source de mes projets
+
+## Contact
+
+- Email : djebara.cherif@gmail.com

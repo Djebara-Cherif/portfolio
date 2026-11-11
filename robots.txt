@@ -1,0 +1,38 @@
+
+#  1 Moteurs de recherche classiques : tout est autorisé 
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: DuckDuckBot
+User-agent: Applebot
+Allow: /
+
+#  2 Assistants IA qui consultent le site pour répondre à une question 
+
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+Allow: /
+
+# 3 Robots dapprentissage : interdits 
+
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: CCBot
+User-agent: Bytespider
+User-agent: Applebot-Extended
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+#  4 Tous les autres robots : accès autorisé 
+
+User-agent: *
+Allow: /
+
+#  Emplacement du sitemap 
+
+Sitemap: https://djebara-cherif.github.io/portfolio/sitemap.xml
